@@ -1,6 +1,6 @@
-#Testing
+Testing
 
-Tesing by yun main method and result like below.
+Tesing by run main method and result like below.
 
     =====initList=====
     100 3 3 2 11 4 8 10 7  
